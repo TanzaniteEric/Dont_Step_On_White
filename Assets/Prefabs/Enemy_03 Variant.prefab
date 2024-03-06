@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2624866785765056101
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 31593576105926536, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_Radius
+      value: 0.38461876
+      objectReference: {fileID: 0}
+    - target: {fileID: 31593576105926536, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 750743363915437740, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661513590370942477, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b18a0d96084b7b241bfd23964fb92069, type: 3}
+    - target: {fileID: 2642306582970652049, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_Radius
+      value: 0.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736029863562292194, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: EnemyChasingSpeed
+      value: 1.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4519226739579695310, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: dieSplatterSettins
+      value: 
+      objectReference: {fileID: 11400000, guid: 740b8890f38950c4ea14760406ad6572, type: 2}
+    - target: {fileID: 4519226739579695310, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: hitSplatterSettings
+      value: 
+      objectReference: {fileID: 11400000, guid: 740b8890f38950c4ea14760406ad6572, type: 2}
+    - target: {fileID: 6535306641350744067, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535306641350744067, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7496633878389492824, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
+      propertyPath: m_Name
+      value: Enemy_03 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 60443be47bf220c47b0b7357a05892dc, type: 3}
